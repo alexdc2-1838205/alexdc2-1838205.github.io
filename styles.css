@@ -14,7 +14,8 @@
 .bartwo {
   height: 500px;
   background-color: #F5CF8E;
-  border-radius: 15px 50px 30px 5px;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
 }
 
 .barthree {
