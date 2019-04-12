@@ -1,0 +1,29 @@
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bar {
+  float: left;                  /* Add this */
+  width: 200px;
+  height: 300px;
+  background-color: #F09A9D;
+}
+
+.rounded {
+  height: 50px;
+  width: 50px;
+  color: black;
+  border-radius: 15px 50px 30px 5px;
+}
+
+.bartwo {
+  height: 500px;
+  background-color: #F5CF8E;
+}
+
+.barthree {
+  height: 200px;
+  background-color: #D6E9FE;
+}
