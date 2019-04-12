@@ -14,7 +14,7 @@
 .rounded {
   height: 50px;
   width: 50px;
-  color: black;
+  background-color: blue;
   border-radius: 15px 50px 30px 5px;
 }
 
