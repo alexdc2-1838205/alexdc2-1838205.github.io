@@ -1,4 +1,4 @@
-input[type=text] {
+.form-control {
   border-radius: 4px;
   width: 600px;
   height: 25px;
